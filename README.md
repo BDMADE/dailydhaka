@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# dailydhaka
+A newspaper based system powered by Ruby on Rails
+>>>>>>> 44256a812cf783239ce63aafacfd7aa010502387
